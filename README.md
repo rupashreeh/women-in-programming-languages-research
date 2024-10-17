@@ -143,6 +143,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Tori Vollmer](https://research.kent.ac.uk/programming-languages-systems/person/tori-vollmer/), University of Kent, UK
 * [Katherine Ye](https://cs.cmu.edu/~kqy/), Carnegie Mellon University, USA
 * [Uma Zalakain](https://umazalakain.info/), University of Glasgow, UK
+* [Rupashree Rangaiyengar](https://github.com/rupashreeh) , Indian Institute of Science, Bangalore
 
 ## Other
 * [Audrey Tang](https://github.com/audreyt), Taiwan's Digital Minister, Taiwan
